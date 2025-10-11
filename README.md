@@ -54,8 +54,8 @@ I love working on projects that make tech feel smart, smooth, and actually usefu
 
 ### 🌐 Connect With Me
 - [Portfolio](https://aayushkumar.vercel.app)  
-- [LinkedIn](https://linkedin.com/in/aayushkumar2408)  
-- [Email](mailto:aayushk2408@gmail.com)
+- [LinkedIn](https://linkedin.com/in/aayushkumar2)  
+- [Email](mailto:aayushkumar2004@gmail.com)
 
 ---
 
