@@ -5,18 +5,18 @@
 ---
 
 ### 🧠 About Me
-I’m a senior at **Arizona State University**, majoring in **Computer Science** and finishing up this **December 2025**.  
-I’m also in the **Accelerated M.C.S. program in Computer Science (Big Data Systems) (3.5+1)** — blending software engineering with large-scale data and AI systems.  
+I’m a senior at Arizona State University studying Computer Science and graduating in December 2025.  
+I’m also in the accelerated M.C.S. in Big Data Systems.  
 
-I love working on projects that make tech feel smart, smooth, and actually useful — from finance apps that understand your habits to intelligent systems that automate safety and compliance.
+I like building things that feel smooth and actually useful. That’s usually full-stack apps, finance tools that make money stuff less scary, and smart systems that help with safety and compliance.
 
 ---
 
 ### 🚀 What I’m Working On
-- 🧠 Building small AI-powered web tools — experimenting with OpenAI APIs and embedding models for real-time insights 
-- ☁️ Learning how to deploy ML systems on AWS using Lambda, EC2, and S3 for scalable automation 
-- 🧾 Working on data visualization dashboards that make analytics feel interactive and useful
-- ☁️ Currently diving deeper into **AWS**, **Supabase**, and data pipeline automation with **Airflow**.
+- 🧠 Small AI-powered web tools that answer real questions in plain English 
+- ☁️ Deploying ML pieces on AWS with Lambda, EC2, and S3 so they’re fast and reliable  
+- 🧾 Simple dashboards that make data feel clear and interactive  
+- ☁️ Going deeper on AWS, Supabase, and data pipelines with Airflow
 
 ---
 
