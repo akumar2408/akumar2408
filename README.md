@@ -53,7 +53,7 @@ I like building things that feel smooth and actually useful. That’s usually fu
 ---
 
 ### 🌐 Connect With Me
-- [Portfolio](https://aayushkumar.vercel.app)  
+- [Portfolio](https://aayush-kumarr.vercel.app/)  
 - [LinkedIn](https://linkedin.com/in/aayushkumar2)  
 - [Email](mailto:aayushkumar2004@gmail.com)
 
