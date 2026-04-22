@@ -5,18 +5,18 @@
 ---
 
 ### 🧠 About Me
-I’m a senior at Arizona State University studying Computer Science and graduating in December 2025.  
-I’m also in the accelerated M.C.S. in Big Data Systems.  
+I completed my B.S. in Computer Science at Arizona State University, and I’m now pursuing my M.C.S. in Big Data Systems at ASU.  
+I currently work as a Solution Analyst at Insurity, where I build and support software, data, and automation solutions in the insurance space.  
 
-I like building things that feel smooth and actually useful. That’s usually full-stack apps, finance tools that make money stuff less scary, and smart systems that help with safety and compliance.
+I like building things that feel smooth and actually useful. That’s usually full-stack apps, finance tools that make money stuff less scary, and smart systems that help with safety, compliance, and decision-making.
 
 ---
 
 ### 🚀 What I’m Working On
-- 🧠 Small AI-powered web tools that answer real questions in plain English 
-- ☁️ Deploying ML pieces on AWS with Lambda, EC2, and S3 so they’re fast and reliable  
-- 🧾 Simple dashboards that make data feel clear and interactive  
-- ☁️ Going deeper on AWS, Supabase, and data pipelines with Airflow
+- 🏢 Building and supporting software, workflow, and data automation solutions at Insurity  
+- 📊 Going deeper on data systems, analytics, and large-scale data concepts through my M.C.S. in Big Data Systems  
+- 📱 Improving product experience, features, and growth for my finance app projects  
+- 🤖 Exploring AI-powered tools and practical ways to blend software, data, and automation together
 
 ---
 
